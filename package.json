@@ -1,5 +1,8 @@
 {
   "name": "rsshub",
+  "engines": {
+    "node": "16.12"
+  },
   "version": "1.0.0",
   "description": "Make RSS Great Again!",
   "main": "lib/pkg.js",
